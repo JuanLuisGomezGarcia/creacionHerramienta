@@ -1,0 +1,9 @@
+C:\Users\Atenea\source\repos\Bateria\Bateria\bin\Debug\Bateria.dll
+C:\Users\Atenea\source\repos\Bateria\Bateria\bin\Debug\Bateria.pdb
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.csproj.AssemblyReference.cache
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.ControlBateria.resources
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.csproj.GenerateResource.cache
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.csproj.CoreCompileInputs.cache
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.dll
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.pdb
+C:\Users\Atenea\source\repos\Bateria\Bateria\obj\Debug\Bateria.Properties.Resources.resources
